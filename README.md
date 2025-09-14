@@ -2,7 +2,7 @@
 
 Este repositório contém as respostas da **Atividade 01 (ATIV-01)** do curso de **Básico em Machine Learning**.
 
-- **Aluno:** [Seu Nome Aqui]
+- **Aluno:** Sharlles Andersonn
 - **Atividade:** Diagnóstica
 - **Tema:** Conceitos básicos de Machine Learning
 - **Formato:** Respostas dissertativas
